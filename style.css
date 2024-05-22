@@ -38,3 +38,7 @@ main {
     height: 15rem;
     margin: 0, auto;
 }
+.footer {
+    text-align: center;
+    font-size: 12px;
+}
