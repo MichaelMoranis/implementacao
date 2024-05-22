@@ -12,8 +12,6 @@ main {
 .section {
     display: flex;
     justify-content: center;
-    background-color: rgb(96, 85, 85);
-    color: white;
     font-size: 12px;
     border-radius: 20px;
     max-height: 4rem;
